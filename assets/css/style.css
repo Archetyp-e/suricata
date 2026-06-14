@@ -1,12 +1,21 @@
-/* 1. Tipografía Global */
+/* 1. Configuración general del body y textos */
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400; 
     color: #212529;   
 }
 
-/* Control intermedio del ancho del Navbar */
+h1, h2, h3, h4, h5, h6, .text-bold {
+    font-weight: 700; 
+}
 
+p {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+
+/* 2. Contenedor personalizado para la Navbar */
 .navbar-container-custom {
     width: 100%;
     max-width: 65%; 
@@ -17,13 +26,7 @@ body {
     justify-content: space-between;
 }  
 
-
-
-/* 2. Títulos y Pesos */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
-}
-
+/* 3. Colores personalizados (texto y fondo) */
 .text-grey-custom {
     color: #707070; 
 }
@@ -33,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #e83e8c; 
 }
 
-/* 4. Tamaños de los Logos*/
+/* 4. Tamaños de los logos */
 .logo-nav {
     height: 40px;
     padding-right: 40px;
