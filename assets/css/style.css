@@ -5,6 +5,7 @@ body {
     color: #212529;   
 }
 
+
 h1, h2, h3, h4, h5, h6, .text-bold {
     font-weight: 700; 
 }
@@ -16,6 +17,9 @@ p {
 
 
 /* 2. Contenedor personalizado para la Navbar */
+
+
+
 .navbar-container-custom {
     width: 100%;
     max-width: 65%; 
@@ -31,12 +35,12 @@ p {
     color: #707070; 
 }
 
-/* 3. Colores de Fondo Personalizados */
+/* 4. Colores de Fondo Personalizados */
 .bg-pink {
     background-color: #e83e8c; 
 }
 
-/* 4. Tamaños de los logos */
+/* 5. Tamaños de los logos */
 .logo-nav {
     height: 40px;
     padding-right: 40px;
