@@ -1,10 +1,10 @@
 # PROYECTO SURICATA
 
-## Propósito:
+## *Propósito:*
 
  Comenzar a trabajar con distintas tecnologías:
 
  - **HTML**
- - CSS
- - Fontawesome
- - Bootstrap
+ - **CSS**
+ - **Fontawesome**
+ - **Bootstrap**
