@@ -4,7 +4,7 @@
 
  Comenzar a trabajar con distintas tecnologías:
 
- - HTML
+ - **HTML**
  - CSS
  - Fontawesome
  - Bootstrap
