@@ -1,6 +1,6 @@
-# PROYECTO SURICATA
+# **PROYECTO SURICATA**
 
-## Propósito:
+## **Propósito:**
 
  Comenzar a trabajar con distintas tecnologías:
 
